@@ -15,7 +15,7 @@
 
   .title{
   font-size: 60px;
-  animation: rotatotitle 4s;
+  animation: rotatetitle 2s;
   }
 
   .container{
@@ -27,7 +27,7 @@
     background-color: #F5FFCB ;
   }
 
- @keyframes rotatotitle {
+ @keyframes rotatetitle {
     from{
         transform: rotatex(90deg);
     }
